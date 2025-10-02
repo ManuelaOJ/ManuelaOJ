@@ -82,3 +82,4 @@ contact:
 
 ![Snake animation](https://raw.githubusercontent.com/ManuelaOJ/ManuelaOJ/output/github-contribution-grid-snake.svg)
 
+
