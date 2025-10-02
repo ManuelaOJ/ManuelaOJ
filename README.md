@@ -80,6 +80,6 @@ contact:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="vscode" width="45" height="45" />               
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/ManuelaOJ/ManuelaOJ/output/github-contribution-grid-snake.svg)
+
 
 
