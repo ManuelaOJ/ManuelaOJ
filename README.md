@@ -1,85 +1,68 @@
 ## Hi there 👋
 
-<!--
-**ManuelaOJ/ManuelaOJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ```yaml
-name: Manuela Orozco
-located_in: Colombia
-current_role: Master's Student in Engineering - Analytics
-company: Independent
+name: Manuela Orozco Jimenez
+located_in: Medellín, Colombia
+current_role: Data & AI Engineer
+focus: Building LLM agents, RAG systems and GeoAI pipelines
+
+fields_of_interest:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents and multi-agent orchestration
+  - LLM evaluation and observability
+  - GIS / GeoAI and remote sensing
+  - Data Engineering and MLOps
+  - Machine Learning and Deep Learning
+
+what_i_do:
+  - Design and ship AI agents that call real tools and external APIs
+  - Build and evaluate RAG pipelines over dense technical documents
+  - Automate geospatial workflows with Python, ArcGIS and QGIS
+  - Own data pipelines end to end — ingestion, ETL, orchestration, monitoring
+  - Keep it reproducible: typed code, tests, CI, pinned dependencies
+
+currently_working_on:
+  - "Comparing RAG patterns (hybrid retrieval, reranking, query rewriting) on Spanish geoscience corpora"
+  - "A LangGraph ReAct agent for satellite imagery and spectral index analysis"
+  - "Evaluation frameworks for LLM systems — faithfulness, retrieval quality, groundedness"
 
 education:
-  - "Master’s (in progress) in Engineering - Analytics, National University of Colombia"
+  - "MSc in Engineering – Analytics (in progress), Universidad Nacional de Colombia"
   - "Specialization in Analytics"
-  - "Geological Engineering"
+  - "BSc in Geological Engineering"
 
-fields_of_interests:
-  - Machine Learning
-  - Artificial Intelligence
-  - Generative AI (GenAI)
-  - Large Language Models (LLMs)
-  - AI Agents
-  - Data Analysis
-  - Data Engineering
-  - GIS / GeoAI
-
-technical_background:
-  - Experience with GIS using Python, ArcGIS, and QGIS
-  - Automated cartography workflows
-  - Data preprocessing, ETL, and visualization
-  - Applied machine learning and neural networks for regression and classification problems
-  - Applying clustering algorithms (Unsupervised learning)
-
-currently_learning:
-  - Transformers and attention mechanisms
-  - LangChain and multi-agent orchestration
-  - Evaluation of LLMs for GIS tasks
-  - Data pipelines 
-  - MLOps best practices (versioning and reproducibility)
-
-thesis_proposal:
+thesis:
   title: "AI Agent for GIS (GeoAI Agent)"
   focus:
-    - Automating geospatial tasks with satellite images
-    - Improving explainability, trustworthiness, and performance
+    - Automating geospatial tasks over satellite imagery
+    - Explainability, trustworthiness and performance of tool-using agents
     - Integration with QGIS and real-world data workflows
 
-goals_2025:
-  - "Graduate from the master’s program"
-  - "Apply my thesis work in an industry setting"
-  - "Contribute with creativity and knowledge in AI/GeoAI projects"
-
+what_makes_my_profile_different:
+  - "Geologist by training, AI engineer by practice — I understand the technical documents
+     and the earth-science data that most ML people treat as a black box."
 
 contact:
   github: "github.com/ManuelaOJ"
-  linkedin: "www.linkedin.com/in/manuela-orozco-jimenez-84061990"
+  linkedin: "linkedin.com/in/manuela-orozco-jimenez-84061990"
 
 ```
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools I Work With</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="vscode" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="vscode" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="vscode" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="vscode" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="vscode" width="45" height="45" />               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="45" height="45"/>
 </p>
-
-
-
-
